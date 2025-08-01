@@ -14,7 +14,7 @@
     "deploy":"gh-pages -d dist"
   },
     "dependencies":{
-    "homepage": "https://BhavaniVanam.github.io/Todolist",
+    "homepage": "https://BhavaniVanam.github.io/task-manager-light",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-router-dom": "^6.30.1"
